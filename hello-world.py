@@ -5,8 +5,9 @@
 def say_hello(name: str):
     print("hello " + name + "!")
 
+
 def main():
-    say_hello("nance")
+    say_hello("world")
 
 
 if __name__ == '__main__':
